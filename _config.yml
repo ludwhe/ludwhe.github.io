@@ -1,0 +1,25 @@
+# Site settings
+title: ludwhe
+email: _@ludwhe.dev
+description: >- # this means to ignore newlines until "baseurl:"
+  my blog.
+baseurl: "" # the subpath of your site
+url: "https://ludwhe.github.io" # the base hostname & protocol for your site
+# twitter_username: ""
+github_username:  ludwhe
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
