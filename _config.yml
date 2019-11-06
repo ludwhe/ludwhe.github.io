@@ -1,10 +1,12 @@
 # Site settings
-title: ludwhe
+title: ludwhe's blog
 email: _@ludwhe.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  my blog.
+  Computer Science MEng. student from France.
+  My interests include Linux, free and open-source software, cloud computing,
+  operating systems and web development.
 baseurl: "" # the subpath of your site
-url: "https://ludwhe.github.io" # the base hostname & protocol for your site
+url: "https://blog.ludwhe.dev" # the base hostname & protocol for your site
 # twitter_username: ""
 github_username:  ludwhe
 
