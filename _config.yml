@@ -1,14 +1,20 @@
 # Site settings
-title: ludwhe's blog
+title: ':(){ :|:&};:'
+author: ludwhe
 email: _@ludwhe.dev
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Science MEng. student from France.
-  My interests include Linux, free and open-source software, cloud computing,
-  operating systems and web development.
-baseurl: "" # the subpath of your site
-url: "https://blog.ludwhe.dev" # the base hostname & protocol for your site
-# twitter_username: ""
-github_username:  ludwhe
+  Computer Science student from France.
+  My interests include Linux, free and open-source software,
+  cloud computing, operating systems and web development.
+
+# the subpath of your site
+baseurl: ""
+# the base hostname & protocol for your site
+url: "https://pages.ludwhe.dev"
+
+github_username: ludwhe
+linkedin_username: louis-heili
 
 # Build settings
 markdown: kramdown

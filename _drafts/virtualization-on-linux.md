@@ -10,7 +10,7 @@ in today's computing workflows. Thanks to the ever-widening availability of
 computer hardware and its constant optimization, it is becoming easier than
 ever for anyone interested enough to create fast, useful virtual machines.
 
-Maybe you run Linux but want to be able to play games (which don't already work
+Maybe you run Linux but want to be able to play games (which do not already work
 on [Proton](https://github.com/ValveSoftware/Proton) or plain
 [WineHQ](https://www.winehq.org/)). Maybe you want to isolate processes on your
 computer for security purposes. Maybe you just find it interesting to try out ;
